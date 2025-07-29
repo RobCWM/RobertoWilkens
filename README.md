@@ -1,4 +1,4 @@
-# Olá, eu sou Roberto Wilkens, estudante de tecnologia e programação focado em Front End!
+# Olá, eu sou Roberto Wilkens, estudante de tecnologia e programação focado em Front End e Teste de Software!
 
 Aqui em baixo estão algumas linguagens que programação que eu tenho conhecimento, tem tanto front-end quanto back-end e teste de software!
 
